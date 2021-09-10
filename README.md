@@ -1,5 +1,5 @@
 # My Git Todo
 
 - Make shopping list
-- Put Laundry away
+- Make Dinner
 - Play VR games with dad
