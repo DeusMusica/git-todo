@@ -2,5 +2,5 @@
 
 - Make shopping list
 - Make Dinner
-- Eat cake
+- Eat Dinner
 - Play VR games with dad
